@@ -8,11 +8,11 @@
 ## Haskell 中的设计模式
 
 * [NewType](./docs/NewType.md)
-* [Smart Constructor](./docs/Smart\ Constructor.md)
+* [Smart Constructor](./docs/Smart%20Constructor.md)
 * [RecursiveGo](./docs/RecursiveGo.md)
 * [Evidence](./docs/Evidence.md)
 * [HasIt](./docs/HasIt.md)
-* [Phantom Type Parameter](./docs/Phantom\ Type\ Parameter.md)
+* [Phantom Type Parameter](./docs/Phantom%20Type%20Parameter.md)
 * 未完待续
 
 ## 杂项
